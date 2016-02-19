@@ -5,6 +5,4 @@ A python script that scrapes ZIP code demographics attributes from the map on th
 It is necessary to have Firefox installed to run the script.
 
 # ToDo
--The scraper sometimes stops after about every 500th scrape. Debug this.
-
 -Add functionality to scrape additional attributes
