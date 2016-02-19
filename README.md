@@ -6,3 +6,5 @@ It is necessary to have Firefox installed to run the script.
 
 # ToDo
 - Add functionality to scrape additional attributes
+- Implement autosave for data backups
+
